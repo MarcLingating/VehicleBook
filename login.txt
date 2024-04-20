@@ -1,0 +1,7 @@
+Email	: admin@mail.com
+Password: Lingating222
+
+BUS
+MOTOR
+SUV
+VAN
